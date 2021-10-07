@@ -1,0 +1,3 @@
+1. gitignore y siempre llamar env
+2. pip install -r requirements.txt 
+3. si es posible inicializar en github
