@@ -7,3 +7,6 @@
 7. crear archivo views.py en core 
 8. crear la carpeta templates en todo el archivo
 9. especificar la ruta en views.py y settings
+10. django environ para proteger archivos
+11. una vez instalado, creo una carpeta env y copio alli lo que quiero proteger
+12  pyhton manage.py starapp nombre
