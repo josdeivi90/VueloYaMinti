@@ -1,0 +1,254 @@
+
+
+.TuVueloYa {
+  width: 400px;
+  height: 103px;
+  font-family: SeoulNamsanCB;
+  font-size: 55px;
+  position: fixed;
+  top: 90px;
+  left: 280px;
+  color: #000;
+}
+.Rectangle-14 {
+  width: 400px;
+  height: 100px;
+  flex-grow: 0;
+  margin: 59px 8px 110px 89px;
+  padding: 14px 64px 26px 36px;
+  opacity: 0.7;
+  border-radius: 50px;
+  background-color: rgba(181, 164, 164, 0.4);
+  z-index: -1;
+}
+.Logofinal-1 {
+  width: 100px;
+  height: 100px;
+  flex-grow: 0;
+  margin: 0 24px 0 0;
+
+}
+.Frame-1 {
+  width: 600px;
+  height: 100px;
+
+  margin: 0 0 53px 8px;
+  padding: 57px 56px;
+  opacity: 0.7;
+  border-radius: 60px;
+  background-color: rgba(50, 205, 215, 0.15);
+  position: fixed;
+  right: 56px;
+  top: 10px;
+}
+
+.Ingresa-Cdigo-de-Reserva {
+
+
+  font-family: SeoulNamsanCB;
+  font-size: 30px;
+  color: #000;
+  position: fixed;
+  top: 25px;
+  right: 250px;
+}
+
+.Rectangle-3 {
+  width: 500px;
+  height: 94px;
+  flex-grow: 0;
+  padding: 7.1px 72px 22.3px 75px;
+  opacity: 0.7;
+  border-radius: 50px;
+  border: solid 3px rgba(0, 0, 0, 0.5);
+  background-color: rgba(50, 205, 215, 0.1);
+}
+.l3mx7y {
+
+  font-family: ArialRoundedBold;
+  font-size: 64px;
+  position: fixed;
+  top: 100px;
+  right: 300px;
+  color: #1411b8;
+}
+.barra {
+  width: 100%;
+  height: 45px;
+  opacity: 0.7;
+  background-color: rgba(181, 164, 164, 0.4);
+  z-index: -1;
+}
+.Ubicacion {
+  width: 146px;
+  height: 36px;
+  flex-grow: 0;
+  font-family: SeoulNamsanCB;
+  font-size: 30px;
+  position: fixed;
+  left: 300px;
+  margin-top: 2px;
+  color: #000;
+}
+
+.Fecha {
+  width: 86px;
+  height: 36px;
+  flex-grow: 0;
+  font-family: SeoulNamsanCB;
+  font-size: 30px;
+  position: fixed;
+  left: 700px;
+  margin-top: 2px;
+  color: #000;
+}
+.Ellipse-1 {
+  width: 28px;
+  height: 27px;
+  flex-grow: 0;
+  margin: 10px 10px 3px 0;
+  background-color: rgba(33, 112, 185, 0.8);
+  border-radius: 80%;
+  position: fixed;
+  left: 1000px;
+}
+.Ida {
+  width: 38px;
+  height: 22px;
+  flex-grow: 0;
+  font-family: SeoulNamsanCB;
+  font-size: 24px;
+  position: fixed;
+  left: 1040px;
+  margin-top: 10px;
+  color: #000;
+}
+
+.Ellipse-2 {
+  width: 28px;
+  height: 27px;
+  flex-grow: 0;
+  margin: 10px 10px 3px 0;
+  background-color: rgba(33, 112, 185, 0.8);
+  border-radius: 80%;
+  position: fixed;
+  left: 1080px;
+}
+.IdayRegreso {
+  width: 300px;
+  height: 50px;
+  flex-grow: 0;
+  font-family: SeoulNamsanCB;
+  font-size: 24px;
+  position: fixed;
+  left: 1110px;
+  margin-top: 10px;
+  color: #000;
+}
+
+.Rectangle-4 {
+  width: 200px;
+  height: 50px;
+  opacity: 0.7;
+  border-radius: 50px;
+  background-color: rgba(181, 164, 164, 0.8);
+  position: fixed;
+  top:400px;
+  left: 110px;
+}
+.Origen {
+  width: 68px;
+  height: 21px;
+  flex-grow: 0;
+  font-family: SeoulNamsanCB;
+  font-size: 24px;
+  color: #000;
+  position: fixed;
+  top: 410px;
+  left: 180px;
+}
+
+.Dropdown-Interaction-Main-Main-2 {
+  width: 321px;
+  height: 49px;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 0;
+  opacity: 0.7;
+  border-radius: 20px;
+  border: solid 1px rgba(196, 196, 196, 0.4);
+  background-color: rgba(255, 255, 255, 0.6);
+  position: fixed;
+  top: 500px;
+  left: 100px;
+}
+
+
+.Rectangle-15 {
+  width: 226px;
+  height: 75px;
+  flex-grow: 0;
+  margin: 0 0 10px;
+  opacity: 0.35;
+  border-radius: 40px;
+  border: solid 1px #000;
+  background-color: rgba(235, 222, 178, 0.9);
+  position: fixed;
+  right: 20px;
+  top: 600px;
+
+}
+.default {
+  height: 24px;
+  flex-grow: 1;
+  opacity: 0.7;
+  -webkit-text-stroke: 1px #000;
+  font-family: SeoulNamsanCB;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+  position: fixed;
+  left: 200px;
+  top: 510px;
+}
+
+.Buscar {
+  width: 141px;
+  height: 62px;
+  -webkit-text-stroke: 1px #000;
+  font-family: SeoulNamsanCB;
+  font-size: 36px;
+  position: fixed;
+  right: 40px;
+  top: 615px;
+  color: #000;
+}
+
+.Vector {
+  width: 13.3px;
+  height: 8.1px;
+  opacity: 0.7;
+  position: fixed;
+  top: 520px;
+  left: 380px;
+
+}
+
+.Frame-2 {
+  width: 20px;
+  height: 30px;
+  flex-grow: 0;
+  opacity: 0.7;
+  background-color: #fff;
+  position: fixed;
+  right: 470px;
+  top: 410px
+}

@@ -5,5 +5,5 @@ from .views import InicioListView
 app_name = "inicio"
 
 urlpatterns = [
-    path('', InicioListView.as_view(), name="Home")
+    path('david/', InicioListView.as_view(), name="Datos")
 ]
