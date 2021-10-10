@@ -1,3 +1,12 @@
 1. gitignore y siempre llamar env
 2. pip install -r requirements.txt 
 3. si es posible inicializar en github
+4. pyhton manage.py runserver ---> para inicializar el servidor
+5. pyhton manage.py migrate ---> para cargar las configuraciones y aplicaciones nuevas
+6. pyhton manage.py superuser ---> para crear el admin de django
+7. crear archivo views.py en core 
+8. crear la carpeta templates en todo el archivo
+9. especificar la ruta en views.py y settings
+10. django environ para proteger archivos
+11. una vez instalado, creo una carpeta env y copio alli lo que quiero proteger
+12  pyhton manage.py starapp nombre
